@@ -1,3 +1,4 @@
+#Author: Suraj Ajjampur
 #!/bin/sh
 
 case "$1" in

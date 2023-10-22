@@ -1,4 +1,4 @@
 config BR2_PACKAGE_LDD
-	bool "ldd"
+	bool "LDD"
 	help
 	  Includes scull and misc-module kernel modules
